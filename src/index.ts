@@ -1,3 +1,5 @@
+import * as three from 'three';
+
 window.addEventListener("load", () => {
     const header = document.createElement("h1");
     header.innerText = "Hello from TypeScript!";
