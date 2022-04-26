@@ -1,0 +1,23 @@
+{
+  "name": "cs412project",
+  "version": "1.0.0",
+  "description": "Graphics Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjkm/cs412project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjkm/cs412project/issues"
+  },
+  "homepage": "https://github.com/kjkm/cs412project#readme",
+  "dependencies": {
+    "three": "^0.139.2",
+    "typescript": "^4.6.3"
+  }
+}
