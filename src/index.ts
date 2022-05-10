@@ -1,4 +1,4 @@
-import * as three from 'three';
+import * as BABYLON from 'babylonjs';
 
 window.addEventListener("load", () => {
     const header = document.createElement("h1");
